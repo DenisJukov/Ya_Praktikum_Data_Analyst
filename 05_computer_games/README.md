@@ -20,8 +20,6 @@
 
 ### Используемые библиотеки:
 - pandas
-- pymystem3
-- datetime
 - matplotlib
 - seaborn
 - numpy
