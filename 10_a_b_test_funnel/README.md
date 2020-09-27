@@ -21,6 +21,7 @@
 - matplotlib
 - seaborn
 - plotly
+- widgets
 
 ### Данные
 Для анализа были доступны данные:
