@@ -15,16 +15,17 @@
 
 ### Используемые библиотеки:
 - pandas
-- math
+- datetime
 - numpy
-- stats
 - matplotlib
 - seaborn
 - requests
 - re
-- plotly
-- tqdm
-- pymystem3
+- bokeh
+- folium
+- geopandas
+- pyyaml
+- Counter
 - bs4
 
 ### Данные
