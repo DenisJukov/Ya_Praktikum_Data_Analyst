@@ -19,12 +19,14 @@
 
 ### Используемые библиотеки:
 - pandas
-- random
+- bokeh
+- holoviews
+- defaultdict
 - datetime
 - matplotlib
-- seaborn
 - numpy
 - stats
+- warnings
 
 ### Данные
 Для анализа были доступны данные:
