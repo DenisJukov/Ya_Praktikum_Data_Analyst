@@ -15,12 +15,18 @@
 
 ### Используемые библиотеки:
 - pandas
-- random
 - datetime
 - matplotlib
 - seaborn
+- bokeh
+- hvplot
 - numpy
-- stats
+- decimal
+- plotly
+- io
+- base64
+- time
+- holoviews
 
 ### Данные
 Для анализа были доступны данные из базы об авиаперевозках:
