@@ -17,8 +17,8 @@
 
 ### Используемые библиотеки:
 - pandas
-- pymystem3
-- datetime
+- warnings
+- ConvexHull
 - matplotlib
 - seaborn
 
