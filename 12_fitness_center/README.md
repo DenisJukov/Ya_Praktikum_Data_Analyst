@@ -18,12 +18,9 @@
 
 ### Используемые библиотеки:
 - pandas
-- math
 - numpy
-- stats
 - matplotlib
 - seaborn
-- plotly
 - sklearn.linear_model
 - sklearn.ensemble
 - sklearn.model_selection
